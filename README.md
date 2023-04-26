@@ -10,4 +10,4 @@ Links to My Profiles
 
 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ssinghalong/)
 
-[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png 'HackerRank logo')](https://www.hackerrank.com/ssinghalong)
+[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png height="50%" 'HackerRank logo')](https://www.hackerrank.com/ssinghalong)
