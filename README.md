@@ -2,4 +2,10 @@
 Links to My Profiles
 
 
-[CodeChef](https://leetcode.com/ssinghalong/)
+[LeetCode](https://leetcode.com/ssinghalong/)
+
+[CodeChef](https://www.codechef.com/users/ssinghalong)
+
+[HackerRank](https://www.hackerrank.com/ssinghalong)
+
+[GeeksForGeeks](https://auth.geeksforgeeks.org/user/ssinghalong/)
